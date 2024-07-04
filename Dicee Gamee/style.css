@@ -1,0 +1,38 @@
+.contioner{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+body{
+    background-color: rgb(1, 31, 31);
+}
+h1{
+    margin: 0px;
+    font-family: 'Lobster',cursive;
+    font-size: 5rem;
+    color: rgb(240, 255, 255);
+    text-shadow: 5px 0 #fab6b6;
+
+}
+p{
+    font-family: 'Indie flower',cursive;
+    color: rgb(247, 170, 64);
+    font-size: 2rem;
+}
+img{
+    width: 25%;
+}
+
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
+  
